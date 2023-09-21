@@ -1,0 +1,21 @@
+.container {
+	position: absolute;
+	top: 70px;
+	left: 100px;
+	z-index: 1;
+}
+.combine {
+	display: flex;
+	width: 300px;
+}
+form {
+	display: flex;
+}
+select {
+	height: 40px;
+	border: white solid 2px;
+}
+button {
+	background-color: black;
+	color: white;
+}

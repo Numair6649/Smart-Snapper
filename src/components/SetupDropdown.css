@@ -1,0 +1,25 @@
+.SetupDropdown {
+	display: flex;
+	position: absolute;
+	width: 1438px;
+	height: 61px;
+	top: 172px;
+	left: -2px;
+	background-color: #c9bfbf;
+	justify-content: space-between;
+	border: white solid 2px;
+	z-index: 1;
+}
+.arrowButton {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	border: white solid 2px;
+	width: 850px;
+}
+
+.rightArrow {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+}

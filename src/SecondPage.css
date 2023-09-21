@@ -1,0 +1,62 @@
+.NavigationBar {
+	display: flex;
+	background-color: #ffffff;
+	flex-wrap: wrap;
+	align-items: end;
+	gap: 2px;
+	left: 1px;
+}
+.navBtn {
+	color: #ffffff;
+	min-width: 259px;
+	min-height: 44px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: white solid 2px;
+}
+#One {
+	left: 20px;
+	margin-left: 26px;
+}
+.body {
+	min-width: 1440px;
+	position: relative;
+}
+button {
+	background-color: #a8a566;
+}
+.logoMap {
+	position: absolute;
+	left: 216px;
+	top: 300px;
+	min-width: 993px;
+	height: 994px;
+	opacity: 0.7;
+}
+.css-xcwltb-MuiToggleButtonGroup-root {
+	width: 1340px;
+}
+
+.MuiSvgIcon-root MuiSvgIcon-fontSizeString css-821wyw-MuiSvgIcon-root {
+	height: 44px;
+}
+.MuiIcon-fontSizeInherit {
+	outline-color: white;
+	outline-width: "1px";
+}
+.footer1 {
+	position: relative;
+	bottom: -75px;
+	min-width: 1440px;
+	height: 100px;
+	font-family: "Inter";
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.2px;
+	background-color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #203864;
+}

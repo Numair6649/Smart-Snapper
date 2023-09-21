@@ -1,0 +1,136 @@
+#root {
+	background-color: #f1f1f1;
+}
+.page {
+	height: 1698px;
+	width: 1440px;
+	position: relative;
+	margin: auto;
+	background-color: white;
+}
+
+.header {
+	background-color: white;
+	min-width: 1440px;
+	min-height: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+.logo {
+	width: 87px;
+	height: 87px;
+	margin-top: 7px;
+	margin-left: 7px;
+}
+.website_name {
+	margin-top: 9px;
+	margin-left: 22px;
+	width: 566px;
+	height: 70px;
+	color: #203864;
+	position: relative;
+}
+.bottom {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+.first {
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	font-size: 24px;
+	font-family: "Inter";
+	font-weight: 700;
+	line-height: 29px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+.second {
+	position: absolute;
+	bottom: 20px;
+	left: 100px;
+	font-family: Encode Sans Semi Expanded;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 50px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+.icons {
+	display: flex;
+	place-items: center;
+	right: 0;
+	top: 23px;
+	gap: 14px;
+	float: right;
+}
+.userName {
+	min-width: 295px;
+	min-height: 50px;
+	top: 25px;
+	text-align: end;
+	display: flex;
+	justify-content: end;
+	align-items: center;
+}
+.header_image {
+	height: 50px;
+	width: 50px;
+	border: black solid;
+	background: black;
+	color: black;
+	filter: invert(100%);
+}
+.body {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 1331px;
+
+	min-width: 1440px;
+	left: -1px;
+	position: relative;
+}
+.map {
+	min-width: 1440px;
+}
+
+.footer {
+	position: relative;
+	bottom: -140px;
+	min-width: 1440px;
+	height: 100px;
+	font-family: "Inter";
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.2px;
+	background-color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #203864;
+}
+
+.header_group {
+	display: flex;
+}
+.mainBtns {
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+video {
+	width: 100%;
+	min-height: 1001px;
+}
+a {
+	width: 87px;
+	height: 87px;
+	margin-left: 7px;
+}

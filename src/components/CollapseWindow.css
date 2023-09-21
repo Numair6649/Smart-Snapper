@@ -1,0 +1,48 @@
+.CollapseTopbar {
+	width: 1335.91px;
+	height: 40px;
+	background-color: #f2f2f2;
+	border-top-right-radius: 30px;
+	border-top-left-radius: 30px;
+	border-top: #d9d9d9 solid 1px;
+}
+.CollapseTopbarText {
+	color: #1c2d69;
+	width: 74.27651977539062px;
+	height: 36.531402587890625px;
+	position: relative;
+	left: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+.CollapseMain {
+	width: 1336px;
+	height: 160px;
+	border-right: #d9d9d9 solid 1px;
+	border-left: #d9d9d9 solid 1px;
+	background-color: white;
+}
+.CollapseBotbar {
+	width: 1335.91px;
+	height: 40px;
+	background-color: #f2f2f2;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	border-bottom: #d9d9d9 solid 1px;
+	margin-bottom: 150px;
+}
+.CollapseDiv {
+	background-color: white;
+}
+.CollapsePosition {
+	position: relative;
+	top: 25px;
+	left: 52px;
+}
